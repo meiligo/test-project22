@@ -22,4 +22,22 @@ git 연습용 프로젝트22
 - [x] 체크항목1
 - [ ] 체크항목3
 
-## 코드 넣는 법
+### 코드 넣는 법
+
+## 파이썬 코드
+
+``` python
+name = input('이름 넣기')
+print(name)
+```
+
+
+## 자바 코드
+``` java
+public class HelloWorldApp {
+	public static void main(String[] args) {
+		System.out.println("Hello World!!");
+	}
+}
+
+```
